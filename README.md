@@ -4,12 +4,9 @@ Page des cours « Visualisation et interaction : techniques de visualisation » 
 
 Les exercices proposés dans ce dépôt servent de supports d’expérimentation pour explorer différentes techniques de visualisation.
 
-Nella cartella "ex1" troverete la base de donné
+Le dossier « ex1 » contient la base de données.
 
-Nella cartella "diapos" troverete il supporto del corso
+Le dossier « diapos » contient le support du cours.
 
-Nella cartella "wired" troverete i dati e alcuni script per fare visualizzazioni del corpus testuale dei titoli degli articoli di Wired e di quello iconografico delle sue covertures (1993-2023).
+Le dossier « wired » contient les données et quelques scripts permettant de produire des visualisations à partir du corpus textuel des titres d’articles de Wired, ainsi que du corpus iconographique de ses couvertures, (1993-2023).
 
-
-
-Nella cartella 
